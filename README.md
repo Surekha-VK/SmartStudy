@@ -303,6 +303,6 @@ The test suite (`src/tests/runTests.ts`) executes 21 assertions covering the ent
 ## 👥 Hackathon Team
 
 * **Surekha V K** — *Lead Full-Stack Developer & Algorithm Designer*
-* **Sinchana Bhat** — *UI/UX Designer & Product Researcher*
+* **Sinchana Bhat P** — *UI/UX Designer & Product Researcher*
 * **Sinchana M C** — *Frontend Engineer & Quality Assurance*
 * **Sinchana N** — *Documentation & Presentation Specialist*
